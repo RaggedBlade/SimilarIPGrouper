@@ -1,5 +1,5 @@
 # SimilarIPGrouper
-Python application that sifts through text files for similar IP addresses and groups them together.
+Sifts through text files for similar IP addresses and groups them together.
 
 ## Example of output written to the file:
 
