@@ -1,4 +1,4 @@
-# SimilarIPSorter
+# SimilarIPGrouper
 Python application that sifts through text files for similar IP addresses and groups them together.
 
 Here is an example of the output:
